@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="11" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-30T12:41:22 BDT" name="Surefire suite" finished-at="2024-10-30T12:43:42 BDT" duration-ms="139916">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bikroy.TestRunner.TestRunner@2ca6546f]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-10-30T12:41:22 BDT" name="Surefire test" finished-at="2024-10-30T12:43:42 BDT" duration-ms="139916">
+      <class name="com.bikroy.TestRunner.TestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.bikroy.TestRunner.TestRunner@2ca6546f]" started-at="2024-10-30T12:41:22 BDT" name="setUpClass" finished-at="2024-10-30T12:41:23 BDT" duration-ms="892" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@a1691c0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bikroy.TestRunner.TestRunner@2ca6546f]" started-at="2024-10-30T12:41:23 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-10-30T12:43:42 BDT" duration-ms="138920" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify  Login Page fields"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify User Login page fields.]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bikroy.TestRunner.TestRunner@2ca6546f]" started-at="2024-10-30T12:41:23 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-10-30T12:43:35 BDT" duration-ms="131558" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify home and living Category views"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify User Login page fields.]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bikroy.TestRunner.TestRunner@2ca6546f]" started-at="2024-10-30T12:41:23 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-10-30T12:43:03 BDT" duration-ms="99733" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Mobile Category views"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify User Login page fields.]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bikroy.TestRunner.TestRunner@2ca6546f]" started-at="2024-10-30T12:41:23 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-10-30T12:43:25 BDT" duration-ms="121616" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Electronics Category views"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify User Login page fields.]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bikroy.TestRunner.TestRunner@2ca6546f]" started-at="2024-10-30T12:41:23 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-10-30T12:43:16 BDT" duration-ms="112691" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Property Category views"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify User Login page fields.]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bikroy.TestRunner.TestRunner@2ca6546f]" started-at="2024-10-30T12:41:23 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-10-30T12:42:54 BDT" duration-ms="91259" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify pets and animal Category views"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify User Login page fields.]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bikroy.TestRunner.TestRunner@2ca6546f]" started-at="2024-10-30T12:41:23 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-10-30T12:43:06 BDT" duration-ms="102962" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Property Category views"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify User Login page fields.]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bikroy.TestRunner.TestRunner@2ca6546f]" started-at="2024-10-30T12:41:23 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-10-30T12:42:25 BDT" duration-ms="61771" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify Vehicles Category views"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify User Login page fields.]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bikroy.TestRunner.TestRunner@2ca6546f]" started-at="2024-10-30T12:41:23 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-10-30T12:41:24 BDT" duration-ms="1292" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify man fashion Category views"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify User Login page fields.]"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "String.equalsIgnoreCase(String)" because "browserName" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "String.equalsIgnoreCase(String)" because "browserName" is null
+at com.bikroy.testbase.TestBase.initializeDriver(TestBase.java:36)
+at com.bikroy.testbase.TestContextSetup.initializeDriver(TestContextSetup.java:21)
+at com.bikroy.stepdefinitions.Hooks.BeforeScenario(Hooks.java:31)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bikroy.TestRunner.TestRunner@2ca6546f]" started-at="2024-10-30T12:41:23 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-10-30T12:41:24 BDT" duration-ms="1292" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify woman fashion Category views"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify User Login page fields.]"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "String.equalsIgnoreCase(String)" because "browserName" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "String.equalsIgnoreCase(String)" because "browserName" is null
+at com.bikroy.testbase.TestBase.initializeDriver(TestBase.java:36)
+at com.bikroy.testbase.TestContextSetup.initializeDriver(TestContextSetup.java:21)
+at com.bikroy.stepdefinitions.Hooks.BeforeScenario(Hooks.java:31)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bikroy.TestRunner.TestRunner@2ca6546f]" started-at="2024-10-30T12:41:24 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-10-30T12:42:31 BDT" duration-ms="66575" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify business and industry Category views"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify User Login page fields.]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bikroy.TestRunner.TestRunner@2ca6546f]" started-at="2024-10-30T12:41:24 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-10-30T12:43:05 BDT" duration-ms="100555" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify hobbies sports and kids Category views"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify User Login page fields.]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.bikroy.TestRunner.TestRunner@2ca6546f]" started-at="2024-10-30T12:42:25 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-10-30T12:43:30 BDT" duration-ms="65231" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify education Category views"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify User Login page fields.]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.bikroy.TestRunner.TestRunner@2ca6546f]" started-at="2024-10-30T12:43:42 BDT" name="tearDownClass" finished-at="2024-10-30T12:43:42 BDT" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.bikroy.TestRunner.TestRunner -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

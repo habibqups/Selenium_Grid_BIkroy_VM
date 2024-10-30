@@ -1,0 +1,6 @@
+com\bikroy\testbase\TestBase.class
+com\bikroy\testbase\TestContextSetup.class
+com\bikroy\pages\DashBoardPage.class
+com\bikroy\utils\LogUtil.class
+com\bikroy\pages\LoginPage.class
+com\bikroy\utils\LocatorReader.class

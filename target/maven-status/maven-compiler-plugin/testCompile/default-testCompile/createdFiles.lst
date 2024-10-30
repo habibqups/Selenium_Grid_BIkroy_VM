@@ -1,0 +1,3 @@
+com\bikroy\stepdefinitions\LoginSteps.class
+com\bikroy\TestRunner\TestRunner.class
+com\bikroy\stepdefinitions\Hooks.class

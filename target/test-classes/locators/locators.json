@@ -1,0 +1,194 @@
+{
+  "loginPage": {
+	
+	"login_logo":{
+		"type":"xpath",
+		"value":"//a[@aria-label='Login']"
+	},
+	"email_login":{
+		"type":"xpath",
+		"value":"//span[@class='email-text--FbASN']"
+	},
+	"email_input_field":{
+		"type":"xpath",
+		"value":"//input[@id='input_email']"
+	},
+	"Password_input_field":{
+		"type":"xpath",
+		"value":"//input[@id='input_password']"
+	},
+	"Login_Button":{
+		"type":"xpath",
+		"value":"//button[normalize-space()='Login']"
+	},
+	"Mobile_category":{
+		"type":"xpath",
+		"value":"//p[normalize-space()='Mobiles']"
+	},
+	"verify_mobile":{
+		"type":"xpath",
+		"value":"(//div[normalize-space()='Mobiles'])[1]"
+	},
+	"Electronics_category":{
+		"type":"xpath",
+		"value":"//p[normalize-space()='Electronics']"
+	},
+	"verify_Electronics":{
+		"type":"xpath",
+		"value":"(//div[normalize-space()='Electronics'])[1]"
+	},
+	"Vehicles_category":{
+		"type":"xpath",
+		"value":"//p[normalize-space()='Vehicles']"
+	},
+	"Verify_Vehicles":{
+		"type":"xpath",
+		"value":"(//div[normalize-space()='Vehicles'])[1]"
+	},
+	"Property_category":{
+		"type":"xpath",
+		"value":"//p[normalize-space()='Property']"
+	},
+	"verify_Property":{
+		"type":"xpath",
+		"value":"(//div[normalize-space()='Property'])[1]"
+	},
+	  "homeAndLiving": {
+		  "type": "xpath",
+		  "value": "//p[normalize-space()='Home & Living']"
+	  },
+	  "verify_hl": {
+		  "type": "xpath",
+		  "value": "//div[@class='ellipsis--AX_lz']"
+	  },
+
+	  "petsAndAnimal": {
+		  "type": "xpath",
+		  "value": "//p[normalize-space()='Pets & Animals']"
+	  },
+	  "verify_pa": {
+		  "type": "xpath",
+		  "value": "//div[@class='ellipsis--AX_lz']"
+	  },
+	  "womanFashion": {
+		  "type": "xpath",
+		  "value": "//a[@href='/en/ads/bangladesh/womens-fashion']//div[@class='icon--YCvGl']"
+	  },
+	  "verify_wf": {
+		  "type": "xpath",
+		  "value": "//div[@class='ellipsis--AX_lz']"
+	  },
+	  "manFashion": {
+		  "type": "xpath",
+		  "value": "//a[@href='/en/ads/bangladesh/mens-fashion']//div[@class='info--uF0qH']//p[@class='info-title--3CkVD']"
+	  },
+	  "verify_mf": {
+		  "type": "xpath",
+		  "value": "//div[@class='ellipsis--AX_lz']"
+	  },
+	  "hobbiesSportsKids": {
+		  "type": "xpath",
+		  "value": "//p[normalize-space()='Hobbies, Sports & Kids']"
+	  },
+	  "verify_hsk": {
+		  "type": "xpath",
+		  "value": "//div[@class='ellipsis--AX_lz']"
+	  },
+	  "businessAndIndustry": {
+		  "type": "xpath",
+		  "value": "//p[normalize-space()='Business & Industry']"
+	  },
+	  "verify_bi": {
+		  "type": "xpath",
+		  "value": "//div[@class='ellipsis--AX_lz']"
+	  },
+	  "education": {
+		  "type": "xpath",
+		  "value": "//p[normalize-space()='Education']"
+	  },
+	  "verify_edu": {
+		  "type": "xpath",
+		  "value": "//div[@class='ellipsis--AX_lz']"
+	  },
+	  "essentials": {
+		  "type": "xpath",
+		  "value": "//p[normalize-space()='Essentials']"
+	  },
+	  "verify_es": {
+		  "type": "xpath",
+		  "value": "//div[@class='ellipsis--AX_lz']"
+	  },
+	  "agriculture": {
+		  "type": "xpath",
+		  "value": "//p[normalize-space()='Agriculture']"
+	  },
+	  "verify_ag": {
+		  "type": "xpath",
+		  "value": "//div[@class='ellipsis--AX_lz']"
+	  },
+	  "services": {
+		  "type": "xpath",
+		  "value": "//p[normalize-space()='Services']"
+	  },
+	  "verify_se": {
+		  "type": "xpath",
+		  "value": "//p[normalize-space()='Essentials']"
+	  },
+	  "jobs": {
+		  "type": "xpath",
+		  "value": "//p[normalize-space()='Jobs']"
+	  },
+	  "verify_job": {
+		  "type": "xpath",
+		  "value": "//a[@title='bikroy jobs']"
+	  },
+	  "overseas": {
+		  "type": "xpath",
+		  "value": "//p[normalize-space()='Overseas Jobs']"
+	  },
+	  "verify_over": {
+		  "type": "xpath",
+		  "value": "//div[@class='ellipsis--AX_lz']"
+	  },
+	  "logo1": {
+		  "type": "xpath",
+		  "value": "//a[@title='Bikroy - the largest marketplace in Bangladesh']"
+	  },
+	  "ads": {
+		  "type": "xpath",
+		  "value": "//a[@class='all-ads-button--1c5U5 header-link--woAbP']"
+	  },
+	  "bangla": {
+		  "type": "xpath",
+		  "value": "//button[@class='gtm-hamburger-locale']"
+	  },
+	  "chat": {
+		  "type": "xpath",
+		  "value": "//a[@aria-label='Chat']"
+	  },
+	  "location1": {
+		  "type": "xpath",
+		  "value": "//span[normalize-space()='All of Bangladesh']"
+	  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
+   
+  
+  }
+
